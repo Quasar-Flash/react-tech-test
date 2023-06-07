@@ -1,4 +1,4 @@
-## Teste Front-end React
+## Teste Front-end (React)
 
 
 **Descrição da Tarefa:**
